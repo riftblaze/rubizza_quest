@@ -1,0 +1,32 @@
+name: "Taya Koval"
+
+    contacts:
+      skype: no
+      jabber: no
+      email: "nikacinton@gmail.com"
+
+    social:
+      twitter: no
+      blog: "http://kotof.site"
+      github: "riftblaze"
+      facebook: no
+      vk: id388768
+
+    languages:
+      - name: Python
+      - name: C
+      - name: HTML/CSS
+
+    education:
+      - title: Applied cybersecurity
+        when: 2016-2022
+        institution: SPbGUT)))
+
+    experience:
+      - title: Tech Support
+        company: Insurance Help Inc.
+        when: 2014-2015
+
+    location:
+        country: “Russia”
+        city: “Saint-Petersburg”
