@@ -1,26 +1,25 @@
-name: "Taya Koval"
+name: Taya Koval
 contacts:
-      email: "nikacinton@gmail.com"
+      email: nikacinton@gmail.com
 
 social:
-      github: "riftblaze"
+      github: riftblaze
       vk: id388768
 
 languages:
-      - name: Python
-      - name: C
-      - name: HTML/CSS
+      name: Python
+      name: C
 
 education:
-      - title: Applied cybersecurity
-        when: 2016-2021
-        institution: SPbGUT
+      title: Applied cybersecurity
+      when: 2016-2021
+      institution: SPbGUT
 
 experience:
-      - title: accountant
-        company: Insurance Help Inc
-        when: 2014-2015
-
+       title: accountant
+       company: Insurance Help Inc
+       when: 2014-2015
+       
 location:
         country: “Russia”
         city: “Saint-Petersburg”
