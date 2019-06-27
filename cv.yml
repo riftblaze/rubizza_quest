@@ -1,19 +1,14 @@
-full_name: Taisiia Alekseevna Ialovaia
-goal: improve ruby skills
+full_name: "Taisiia Alekseevna Ialovaia"
+goal: "improve ruby skills"
 phone_number: +79500153410
-email: nikacinton@gmail.com
+email: "nikacinton@gmail.com"
 age: 32
 hours_per_day: 13
 
-social:
-      github: riftblaze
-      vk: id388768
-
 programming_languages: ['Python','C']
 have_a_job: no
-laptop: yes xubuntu
+laptop: yes
 english: intermediate
-
 
 education: 
   institution: SPbGUT
