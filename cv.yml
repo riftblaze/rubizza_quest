@@ -1,25 +1,26 @@
+age: 32
+english: intermediate
+email: "nikacinton@gmail.com"
 full_name: "Taisiia Alekseevna Ialovaia"
 goal: "improve ruby skills"
-phone_number: +79500153410
-email: "nikacinton@gmail.com"
-age: 32
-hours_per_day: 13
-
-programming_languages: ['Python','C']
-have_a_job: no
-laptop: yes
-english: intermediate
-
 education: 
   institution: SPbGUT
   graduation_year: 2021
   speciality: applied cybersecurity
-
 experience:
        title: accountant
        company: Insurance Help Inc
        when: 2014-2015
-       
+have_a_job: no
+hours_per_day: 13
+programming_languages: ['Python','C']
+laptop: yes
 location:
         country: “Russia”
-        city: “Saint-Petersburg”
+        city: “Saint-Petersburg”       
+phone_number: +79500153410
+
+
+
+       
+
